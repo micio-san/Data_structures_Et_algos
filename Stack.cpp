@@ -55,7 +55,7 @@ class MyStack{
     int size() {
         return sizeof(list)/sizeof(top);
     }
-    bool isEmpty(int size) {
+    string isEmpty(int size) {
         return size == 0 ? "true" : "false";
     }
 };

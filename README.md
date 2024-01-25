@@ -1,6 +1,4 @@
 # Basic Data Structures :books: 
-  Structs <br>
-  Arrays <br>
   Classes <br>
   Stack <br>
   Queue <br>

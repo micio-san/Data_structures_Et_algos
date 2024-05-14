@@ -3,7 +3,6 @@
 //Insertion sort
 //Quick sort
 //Merge sort
-//Heap sort
 
 #include <iostream>
 #include <cstdlib>

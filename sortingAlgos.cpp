@@ -4,6 +4,7 @@
 //Quick sort
 //Merge sort
 
+//for(type value:values){} è il forEach! 
 #include <iostream>
 #include <cstdlib>
 using namespace std;
